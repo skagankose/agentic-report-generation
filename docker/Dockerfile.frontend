@@ -1,0 +1,14 @@
+FROM nginx:alpine
+
+# Copy static files and templates
+COPY frontend/public/static/ /usr/share/nginx/html/static/
+COPY frontend/src/templates/ /usr/share/nginx/html/templates/
+
+# Create nginx configuration
+COPY docker/nginx.conf /etc/nginx/nginx.conf
+
+# Expose port 80
+EXPOSE 80
+
+# Start nginx
+CMD ["nginx", "-g", "daemon off;"]

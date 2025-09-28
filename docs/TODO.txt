@@ -1,0 +1,6 @@
+- Word Formatını Düzelt
+- Şablon ekleme
+- Prompt optimizasyonu
+- Gantt Chart 
+- Vector Database Tool
+- Citation

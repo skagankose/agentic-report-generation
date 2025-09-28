@@ -1,6 +1,6 @@
 # Agentic Report Generation
 
-This web application generates comprehensive feasibility reports using artificial intelligence. It creates detailed reports covering technical analysis, market analysis, cost analysis, financial analysis, and risk assessment for any given topic.
+This web application generates comprehensive feasibility reports using large language models and deep research tools. It creates detailed reports covering technical analysis, market analysis, cost analysis, financial analysis, and risk assessment for any given topic.
 
 ## Features
 

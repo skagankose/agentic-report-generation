@@ -1,4 +1,4 @@
-# Agentic Report Generation
+# Agentic Report Generator with Deep Research Feature
 
 This web application generates comprehensive feasibility reports using large language models and deep research tools. It creates detailed reports covering technical analysis, market analysis, cost analysis, financial analysis, and risk assessment for any given topic.
 
